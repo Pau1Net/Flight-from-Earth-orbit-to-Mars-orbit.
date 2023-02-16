@@ -1,6 +1,7 @@
 '''
 Файл без гомановской(идеальной) траектории. 
 Напишите на почту: e49212@voenmeh.ru с домена Военмеха или МГТУ им.Баумана для получения полной версии.
+Разработчик: Коцько П.А.(Paul Kotsko)
 '''
 from numpy import sin, cos, sqrt, sign, arange
 from math import pi, asin, acos, sinh, cosh, asinh, acosh, atan
